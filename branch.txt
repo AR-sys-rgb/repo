@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 add from firstbranch
+=======
+1.text added from firstbranch
+>>>>>>> 83c9d34 (add branch txt to local repo)
